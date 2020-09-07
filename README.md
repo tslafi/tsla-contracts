@@ -26,17 +26,24 @@ Rather than allocating a portion of the supply to the founding team, TSLA is bei
 
 ## Pool 0
 
-Pool 1 launches at 14:00, 7 September 2020 (GMT-7). A total of 300,000 TSLA tokens are distributed, halved every 24 hours. Users can get TSLA token rewards by staking USDT/JST/CRT/TAI tokens, at [tslafi.network](https://tslafi.network), with following supply details:
+Pool 0 launches at 14:00, 7 September 2020 (GMT-7). A total of 300,000 TSLA tokens are distributed, halved every 24 hours. Users can get TSLA token rewards by staking USDT/JST/CRT/TAI tokens, at [tslafi.network](https://tslafi.network), with following supply details:
 
 
 USDT:  50%, 150,000 TSLA
 
+* [THTMKPXXkXyNLYJNgcdQXB6P2owqRb1k2f](https://tronscan.io/#/contract/THTMKPXXkXyNLYJNgcdQXB6P2owqRb1k2f)
+
 JST:  20%, 60,000 TSLA
+
+* [TFZ5SuUfh6xaAwbWid647vwAXF8FjG7evH](https://tronscan.io/#/contract/TFZ5SuUfh6xaAwbWid647vwAXF8FjG7evH)
 
 CRT:  20%, 60,000 TSLA
 
+* [TKN7gS1T3P2KhcwaYidAbNxteQyvpvxthE](https://tronscan.io/#/contract/TKN7gS1T3P2KhcwaYidAbNxteQyvpvxthE)
+
 TAI:  10%, 30,000 TSLA
 
+* [TXZy1kKBFhcVdxM8cu2tAixzZ6z4wiCogF](https://tronscan.io/#/contract/TXZy1kKBFhcVdxM8cu2tAixzZ6z4wiCogF)
 
 ## Pool 1
 
