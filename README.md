@@ -55,9 +55,9 @@ Users obtain TSLA token rewards by providing TSLA-TRX liquidity on JustSwap, sta
 
 Please note Tronscan explorer currently is unable to show LP tokens.
 
-Early bird TSLA-TRX JUSTSWAP LP: 200,000 TSLA, halving every 3 days, launch time: TBD.
+Early bird TSLA-TRX JUSTSWAP LP: 250,000 TSLA, halving every 3 days, launch time: TBD.
 
-Standard TSLA-TRX JUSTSWAP LP: 200,000 TSLA, halving every 14 days, launch time: TBD.
+Standard TSLA-TRX JUSTSWAP LP: 250,000 TSLA, halving every 14 days, launch time: TBD.
 
 
 ## Pool 2
