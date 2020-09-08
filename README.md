@@ -14,15 +14,17 @@ Rather than allocating a portion of the supply to the founding team, TSLA is bei
 
 **Token Symbol**: TSLA
 
-**Token Contract**: TBD
+**Token Contract**: TBGWQXQjFysZiAevBakSb3NfLq2Tgc7A13
 
 **Total Supply**: 1,000,000 TSLA
 
 **Distribution**: 
 
 * Pool 0 has 300,000 TSLA allocation. 
-* Pool 1 lasts 21 days and has 600,000 TSLA allocation. 
-* 100,000 reserved which will be locked and governed by TSLA holders, for creating additional pools.
+* Pool 1 is LP pool, which has 500,000 TSLA allocation. 
+* 200,000 reserved which will be locked and governed by TSLA holders, for creating additional pools.
+
+Note: The genesis address TYiTgFHNx4j3dN1hPixwgtBbdCjhBCTznF currently holds the rewards that will be allocated to liquidity miners. When the Liquidity mining pools are launched, everything will be distributed to the community.
 
 ## Pool 0
 
@@ -47,18 +49,18 @@ TAI:  10%, 30,000 TSLA
 
 ## Pool 1
 
-Pool 1 launches at 14:00, 8 September 2020 (GMT-7). A total of 500,000 TSLA tokens are distributed, halved every 72 hours.
+Pool 1 launches after Pool 0 launched. A total of 500,000 TSLA tokens are distributed.
 
-Users obtain TSLA token rewards by providing TSLA-TRX and TSLA-USDT liquidity on JustSwap, stake TSLA-TRX and TSLA-USDT tokens at tsla.finance to get TSLA as rewards.
+Users obtain TSLA token rewards by providing TSLA-TRX liquidity on JustSwap, stake TSLA-TRX tokens at tsla.finance to get TSLA as rewards.
 
 Please note Tronscan explorer currently is unable to show LP tokens.
 
-TSLA-TRX JUSTSWAP LP: 40%, 200,000 TSLA
+Early bird TSLA-TRX JUSTSWAP LP: 200,000 TSLA, halving every 3 days, launch time: TBD.
 
-TSLA-USDT JUSTSWAP LP: 60%, 300,000 TSLA
+Standard TSLA-TRX JUSTSWAP LP: 200,000 TSLA, halving every 14 days, launch time: TBD.
 
 
-## Pool v3
+## Pool 2
 
-100,000 token reserved. Additional pools will be choosen carefully to attract a broad and vision-aligned community to steward the future of the protocol and token. This is determined and governed by TSLA holders.
+200,000 token reserved. Additional pools will be choosen carefully to attract a broad and vision-aligned community to steward the future of the protocol and token. This is determined and governed by TSLA holders.
 
