@@ -49,15 +49,15 @@ TAI:  10%, 30,000 TSLA
 
 ## Pool 1
 
-Pool 1 launches after Pool 0 launched. A total of 500,000 TSLA tokens are distributed.
+A total of 500,000 TSLA tokens are distributed.
 
 Users obtain TSLA token rewards by providing TSLA-TRX liquidity on JustSwap, stake TSLA-TRX tokens at tsla.finance to get TSLA as rewards.
 
 Please note Tronscan explorer currently is unable to show LP tokens.
 
-Early bird TSLA-TRX JUSTSWAP LP: 250,000 TSLA, halving every 3 days, launch time: TBD.
+Early bird TSLA-TRX JUSTSWAP LP: 150,000 TSLA, halving every 3 days, launch time: September 18 2020， 12.00pm.
 
-Standard TSLA-TRX JUSTSWAP LP: 250,000 TSLA, halving every 14 days, launch time: TBD.
+Standard TSLA-TRX JUSTSWAP LP: 350,000 TSLA, halving every 14 days, launch time: TBD.
 
 
 ## Pool 2
